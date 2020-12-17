@@ -47,9 +47,22 @@
  
  1.Sign up : 유저의 아이디와 비밀번호를 입력하여 계정 등록함  
  2.Login : 아이디와 비밀번호 입력하여 로그인  
- 3.Print All Users : 시스템의 모든 사용자들 출력  
+ 3.Print All Users : 저장되있는 모든 사용자들의 이름과 비밀번호 출력 및 총 회원수 출력  
  4.Exit : 종료  
  하는 프로그램입니다.  
+ 
+ ## AddressBook  
+ ![image](https://user-images.githubusercontent.com/64358334/102438984-b012eb00-4060-11eb-9c26-79e698ef7690.png)  
+ ![image](https://user-images.githubusercontent.com/64358334/102439007-bef99d80-4060-11eb-8953-58df794bd940.png)  
+ ![image](https://user-images.githubusercontent.com/64358334/102439033-cf117d00-4060-11eb-96f3-6becc756e972.png)  
+ ![image](https://user-images.githubusercontent.com/64358334/102439052-dd5f9900-4060-11eb-9a4c-d332c2e7bab9.png)  
+ 교직원과 학생의 data를 주소록에 저장하는 프로그램. 교직원의 경우 ID는 8자리숫자 학생의 경우 ID는 학번10자리숫자  
+ ID를 통한 연락처 검색기능과 data삭제기능 저장되있는 모든 data를 출력하는 항목등이있고 전화번호 나 ID형식이 틀린경우  
+ 다시입력하도록 하는 프로그램입니다.  
+   
+  
+ 
+ 
  
  
  
