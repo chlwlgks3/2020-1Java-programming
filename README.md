@@ -41,6 +41,22 @@
  ![image](https://user-images.githubusercontent.com/64358334/102438079-fd8e5880-405e-11eb-9c67-bf1b3b1aaddf.png)  
  두개의 주사위에서 임의의 숫자를 조합해나가며 특정 숫자조합이 나오는데 걸린 횟수를 출력해주는 프로그램입니다.  
  
+ ## UserTest.java  
+ ![image](https://user-images.githubusercontent.com/64358334/102438467-ae94f300-405f-11eb-9f8c-93a7030b9abc.png)  
+ ![image](https://user-images.githubusercontent.com/64358334/102438398-94f3ab80-405f-11eb-9b41-d7466a8316b7.png)  
+ 
+ 1.Sign up : 유저의 아이디와 비밀번호를 입력하여 계정 등록함  
+ 2.Login : 아이디와 비밀번호 입력하여 로그인  
+ 3.Print All Users : 시스템의 모든 사용자들 출력  
+ 4.Exit : 종료  
+ 하는 프로그램입니다.  
+ 
+ 
+ 
+
+
+ 
+ 
  
  
  
