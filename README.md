@@ -88,8 +88,11 @@
 ![image](https://user-images.githubusercontent.com/64358334/102440636-f453ba80-4063-11eb-9816-e2bdc626392b.png)  
 신호변경버튼을 누를때마다 빨간색, 노란색, 초록색 으로 번갈아가며 신호의 색이 변경되는 GUI프로그램입니다.  
 
-
+ ## Addressbook_GUI
+ 이전에 text형식으로만 했던 Addressbook을 GUI를 이용하여 구현한것입니다. 주소록에 기록되어있는 data를 전부 읽을때 사용하는 readPanel과 data검색에 사용되는 searchPanel과 시작화면인 startPanel및 data를 삽입할때 사용하는 writePanel과 deletePanel및  
+ File로 data를 관리하기위한 ioFile과 Main등으로 이루어져있습니다. 버튼클릭시 panel간 전환이 이루어집니다.  
  
+
  
  
  
