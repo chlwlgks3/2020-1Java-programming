@@ -69,6 +69,10 @@
  ![image](https://user-images.githubusercontent.com/64358334/102439627-eac95300-4061-11eb-80cd-fcdf9f0e08dc.png)  
  이전에는 좌표를 지정해서 text형식으로 진행되었던 tictactoe게임을 직접 클릭하여 좌표를 지정할 수 있도록 GUI로 구현한 프로그램입니다.  
  
+ ## Pizza.java  
+ ![image](https://user-images.githubusercontent.com/64358334/102439793-498ecc80-4062-11eb-9d8b-d808f1017176.png)  
+ 피자종류와 크기 그리고 추가토핑을 고르고 총 가격을 출력해주는 프로그램을 GUI로 구현하였습니다. 어떤 하나의 항목이라도 클릭이 안되어있다면 오류메시지 출력하고 <취소>버튼을 누르는경우 reset하도록 하였습니다.  
+ 
  
    
   
