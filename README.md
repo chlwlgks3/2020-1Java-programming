@@ -1,7 +1,7 @@
 # 2020-1Java-programming  
 2020-1학기 조정훈 교수님 자바프로그래밍 과제코드를 정리한것입니다.  
 
-## Gold Game Test.java  
+## [Gold Game Test.java](https://github.com/chlwlgks3/2020-1Java-programming/blob/main/GoldGameTest.java)    
 ![image](https://user-images.githubusercontent.com/64358334/102436544-26611e80-405c-11eb-8a1f-3fab76920a79.png)
  
 
