@@ -73,6 +73,25 @@
  ![image](https://user-images.githubusercontent.com/64358334/102439793-498ecc80-4062-11eb-9d8b-d808f1017176.png)  
  피자종류와 크기 그리고 추가토핑을 고르고 총 가격을 출력해주는 프로그램을 GUI로 구현하였습니다. 어떤 하나의 항목이라도 클릭이 안되어있다면 오류메시지 출력하고 <취소>버튼을 누르는경우 reset하도록 하였습니다.  
  
+ ## BouncingBall  
+ ![image](https://user-images.githubusercontent.com/64358334/102440256-46e0a700-4063-11eb-9f58-2e2136909014.png)  
+ ![image](https://user-images.githubusercontent.com/64358334/102440299-565ff000-4063-11eb-9822-fd3db06a163c.png)  
+ 하단의 막대기를 사용자가 움직이면서 공을 튕겨내는 프로그램입니다. 시간이 지날수록 공의 속도가 빨라지며 score가 올라갑니다.  
+ 일정시간이 지나게되면 두번째공이 나타나면서 난이도가 상승하며 공의속도는 일정속도이상 올라갈 수 없습니다(난이조절위함)  
+ 공이 화면밑으로 떨어지면 게임은 종료되면서 gameover효과음을 출력합니다. 이제까지의 사용자가 했던 score는 저장되며 게임이 끝나게 되면 이번사용자가 몇등을 기록했는지 record를 보여주게됩니다.  
+ 
+ ## MyPaintApp.java  
+ ![image](https://user-images.githubusercontent.com/64358334/102440557-ca01fd00-4063-11eb-8bd1-841d464fc5c7.png)  
+ Frame안에서 마우스를 클릭하면서 자유롭게 그림을 그릴 수 있는 GUI프로그램입니다.  
+ 
+ ## TrafficLight.java  
+![image](https://user-images.githubusercontent.com/64358334/102440636-f453ba80-4063-11eb-9816-e2bdc626392b.png)  
+신호변경버튼을 누를때마다 빨간색, 노란색, 초록색 으로 번갈아가며 신호의 색이 변경되는 GUI프로그램입니다.  
+
+
+ 
+ 
+ 
  
    
   
