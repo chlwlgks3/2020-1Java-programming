@@ -1,1 +1,2 @@
-# 2020-1Java-programming
+# 2020-1Java-programming  
+2020-1학기 조정훈 교수님 자바프로그래밍 코드를 정리한것입니다.
