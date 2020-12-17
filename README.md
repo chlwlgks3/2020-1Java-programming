@@ -60,10 +60,15 @@
  ID를 통한 연락처 검색기능과 data삭제기능 저장되있는 모든 data를 출력하는 항목등이있고 전화번호 나 ID형식이 틀린경우  
  다시입력하도록 하는 프로그램입니다.  
  
- ## Calculator  
+ ## Calculator.java  
  ![image](https://user-images.githubusercontent.com/64358334/102439337-72629200-4061-11eb-84eb-9f79b1399c28.png)  
  
  사칙연산과 분수처리,mod,sqrt,Backspace,삭제 등의 기능을 하는 계산기를 java GUI로 구현한 프로그램입니다.  
+ 
+ ## TicTacToe_GUI.java  
+ ![image](https://user-images.githubusercontent.com/64358334/102439627-eac95300-4061-11eb-80cd-fcdf9f0e08dc.png)  
+ 이전에는 좌표를 지정해서 text형식으로 진행되었던 tictactoe게임을 직접 클릭하여 좌표를 지정할 수 있도록 GUI로 구현한 프로그램입니다.  
+ 
  
    
   
