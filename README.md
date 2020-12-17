@@ -37,6 +37,13 @@
  ![image](https://user-images.githubusercontent.com/64358334/102437894-a4262980-405e-11eb-8ef5-5c76571e95b1.png)  
  점수입력하면 알파벳의 성적을 출력해주는 간단한 프로그램입니다.  
  
+ ## Dice.java  
+ ![image](https://user-images.githubusercontent.com/64358334/102438079-fd8e5880-405e-11eb-9c67-bf1b3b1aaddf.png)  
+ 두개의 주사위에서 임의의 숫자를 조합해나가며 특정 숫자조합이 나오는데 걸린 횟수를 출력해주는 프로그램입니다.  
+ 
+ 
+ 
+ 
  
  
  
